@@ -15,3 +15,5 @@ releaser:
       - pelican
       - setuptools
       - wheel
+    pypi:
+      - pelican
