@@ -3,6 +3,7 @@ CName Changelog
 
 This Changelog is for ``minchin.pelican.plugins.cname``.
 
+- :support:`153` Move to implicit namespace
 - :release:`1.3.4 <2023-08-09>`
 - :support`-`: add autoloading via ``minchin.pelican.plugins.autoloader``.
 - **note**: there are no releases for v1.3.0 through v1.3.3.
